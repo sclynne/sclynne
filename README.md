@@ -1,11 +1,11 @@
 ⌨ 
 
-#c
-#𝚒𝚗𝚌𝚕𝚞𝚍𝚎 <𝚜𝚝𝚍𝚒𝚘.𝚑>
-𝚖𝚊𝚒𝚗()
+#include <stdio.h>
+
+int main()
 {
-   𝚙𝚛𝚒𝚗𝚝𝚏("Olá! Seja bem-vindo(a/e) ao meu perfil!");
-   𝚛𝚎𝚝𝚞𝚛𝚗 𝟶;
+    printf("Olá! Seja bem-vindo(a/e) ao meu perfil!");
+    return 0;
 }
 
 ---
