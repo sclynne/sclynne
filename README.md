@@ -1,5 +1,5 @@
 ⌨ 
- c 
+c
 #𝚒𝚗𝚌𝚕𝚞𝚍𝚎 <𝚜𝚝𝚍𝚒𝚘.𝚑>
 𝚖𝚊𝚒𝚗()
 {
@@ -7,7 +7,7 @@
    𝚛𝚎𝚝𝚞𝚛𝚗 𝟶;
 }
 
-🎓 Estudante de Ciência da Computação, com foco em Desenvolvimento Front-end, cursando o segundo período na UDF. Construindo minha jornada na tecnologia, aprofundando meus conhecimentos em programação, desenvolvimento web e criação de interfaces modernas, intuitivas.
+##🎓 Estudante de Ciência da Computação, com foco em Desenvolvimento Front-end, cursando o segundo período na UDF. Construindo minha jornada na tecnologia, aprofundando meus conhecimentos em programação, desenvolvimento web e criação de interfaces modernas, intuitivas.
 
 Meu objetivo é transformar ideias em soluções digitais, desenvolver projetos práticos e evoluir continuamente como desenvolvedor, buscando a criação acessível e eficiente.
 
