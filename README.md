@@ -44,10 +44,10 @@ Desenvolvimento de banco de dados
 
 ## Quais são os meus próximos passos?
 
-Desenvolver projetos Front-end responsivos.
-Aprofundar meus conhecimentos em JavaScript e React.
-Praticar estruturas de dados e algoritmos.
-Construir um portfólio com projetos próprios.
+* Desenvolver projetos Front-end responsivos.
+* Aprofundar meus conhecimentos em JavaScript e React.
+* Praticar estruturas de dados e algoritmos.
+* Construir um portfólio com projetos próprios.
 
 --- 
 
