@@ -10,7 +10,7 @@ int main()
 }
 ```
 ---
-## 🎓 Estudante de Ciência da Computação, com foco em Desenvolvimento Front-end, cursando o segundo período na UDF. 
+## 🎓 Estudante de Ciência da Computação, com foco em Design e Desenvolvimento Front-end, cursando o segundo período na UDF. 
 
 Construindo minha jornada na tecnologia, aprofundando meus conhecimentos em programação, desenvolvimento web e criação de interfaces modernas, intuitivas.
 
