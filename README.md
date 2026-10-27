@@ -8,6 +8,7 @@ int main()
     printf("Olá! Seja bem-vindo(a/e) ao meu perfil!");
     return 0;
 }
+```
 ---
 ## 🎓 Estudante de Ciência da Computação, com foco em Desenvolvimento Front-end, cursando o segundo período na UDF. 
 
