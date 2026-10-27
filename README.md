@@ -9,7 +9,9 @@ c
 }
 
 ---
-## 🎓 Estudante de Ciência da Computação, com foco em Desenvolvimento Front-end, cursando o segundo período na UDF. Construindo minha jornada na tecnologia, aprofundando meus conhecimentos em programação, desenvolvimento web e criação de interfaces modernas, intuitivas.
+## 🎓 Estudante de Ciência da Computação, com foco em Desenvolvimento Front-end, cursando o segundo período na UDF. 
+
+Construindo minha jornada na tecnologia, aprofundando meus conhecimentos em programação, desenvolvimento web e criação de interfaces modernas, intuitivas.
 
 Meu objetivo é transformar ideias em soluções digitais, desenvolver projetos práticos e evoluir continuamente como desenvolvedor, buscando a criação acessível e eficiente.
 
@@ -17,7 +19,7 @@ Atualmente, possuo foco está em fortalecer minha base técnica, explorar novas 
 
 ---
 
-# Tecnologias que estudo e pretendo explorar cada vez mais:
+## Tecnologias que estudo e pretendo explorar cada vez mais:
 
 🌐 Front-end
 
@@ -29,7 +31,7 @@ Atualmente, possuo foco está em fortalecer minha base técnica, explorar novas 
 
 --- 
 
-# 💾 Fundamentos de Computação explorados:
+## 💾 Fundamentos de Computação explorados:
 
 Lógica de programação e algoritmos
 Estruturas de dados
@@ -39,7 +41,7 @@ Desenvolvimento de banco de dados
 
 ---
 
-# Quais são os meus próximos passos?
+## Quais são os meus próximos passos?
 
 Desenvolver projetos Front-end responsivos.
 Aprofundar meus conhecimentos em JavaScript e React.
@@ -48,9 +50,9 @@ Construir um portfólio com projetos próprios.
 
 --- 
 
-# Acredito que a evolução na programação acontece com curiosidade, consistência e prática. Por isso, busco transformar o conhecimento adquirido na graduação em projetos reais, aprender com cada desafio e construir uma base sólida para minha carreira.
+## Acredito que a evolução na programação acontece com curiosidade, consistência e prática. Por isso, busco transformar o conhecimento adquirido na graduação em projetos reais, aprender com cada desafio e construir uma base sólida para minha carreira.
 
 ---
-# ✰  Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha evolução na tecnologia cada vez mais.ᐟ 
+## ✰  Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha evolução na tecnologia cada vez mais.ᐟ 
 
 💻`.exe
