@@ -1,6 +1,8 @@
 ⌨ 
-c
+
+´´´c
 #include <stdio.h>
+
 int main()
 {
     printf("Olá! Seja bem-vindo(a/e) ao meu perfil!");
