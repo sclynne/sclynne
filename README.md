@@ -39,7 +39,7 @@ Atualmente, possuo foco está em fortalecer minha base técnica, explorar novas 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://shields.io)
+![VS Code](https://shields.io/badge/VScode-181717?style=for-the-badge&logo=github&logoColor=white))
 
 --- 
 
